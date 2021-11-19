@@ -1,1 +1,1 @@
-Bu oldukça basit bir hesaplama kütüphanesidir. İki sayıyı toplama,çıkarma,çarpma ve bölme işlemlerine tabi tutar. </
+It's just a simple calculator for NOW.
