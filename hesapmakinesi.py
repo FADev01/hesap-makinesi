@@ -1,13 +1,14 @@
-def toplama(num1,num2):
+def add(num1,num2):
     return num1+num2
 
-def çıkarma(num1,num2):
+def subtract(num1,num2):
     return num1-num2
 
-def çarpma(num1,num2):
+def multiply(num1,num2):
     return num1*num2
 
-def bölme(num1,num2):
+def divide(num1,num2):
     return num1/num2
 
-print(çarpma(4,7))
+def square(num1):
+    return num1*num1
